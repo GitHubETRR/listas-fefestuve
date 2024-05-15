@@ -8,3 +8,7 @@ Ejecutar en el terminal el siguiente comando. Tener en cuenta que diccionario se
 ```
 ./corrector diccionario textos/[texto a corregir]
 ```
+
+## Especificaciones
+
+El código guarda las palabras del diccionario en diferentes guirnaldas dependiendo de las 2 primeras letras. Después lee cada palabra del texto y verifica en la lista correspondiente si la misma existe.
